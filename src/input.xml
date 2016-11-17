@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student>
+		<studentnumber>201510098999</studentnumber>
+		<studentname>Steve</studentname>
+		<major>软件工程</major>
+		<grade>2015</grade>
+		<classname>15软件工程一班</classname>
+		<gender>男</gender>
+	</student>
+
+	<student>
+		<studentnumber>201510098998</studentnumber>
+		<studentname>Lucy</studentname>
+		<major>软件工程</major>
+		<grade>2015</grade>
+		<classname>15软件工程一班</classname>
+		<gender>女</gender>
+	</student>
+
+	<student>
+		<studentnumber>201510098997</studentnumber>
+		<studentname>Tom</studentname>
+		<major>软件工程</major>
+		<grade>2015</grade>
+		<classname>15软件工程一班</classname>
+		<gender>男</gender>
+	</student>
+
+	<student>
+		<studentnumber>201510098996</studentnumber>
+		<studentname>Cici</studentname>
+		<major>软件工程</major>
+		<grade>2015</grade>
+		<classname>15软件工程一班</classname>
+		<gender>女</gender>
+	</student>
+
+	<student>
+		<studentnumber>201510098995</studentnumber>
+		<studentname>Gob</studentname>
+		<major>软件工程</major>
+		<grade>2015</grade>
+		<classname>15软件工程一班</classname>
+		<gender>男</gender>
+	</student>
+
+</students>
