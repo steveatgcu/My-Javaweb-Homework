@@ -1,0 +1,16 @@
+body{
+	font-family:"Microsoft Yahei" !important;
+	margin :0px;
+}
+
+.header{
+	height:80px;;
+	width:100%;
+	background:#eee;
+	margin :0px 0px 20px 0px;
+}
+
+.header h1{
+	margin-top:0px;
+	line-height:80px;
+}
