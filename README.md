@@ -22,6 +22,6 @@
 Master分支里面的学生管理系统使用了我自己开发的一个超超超轻量级框架，基于注解的自动ORM映射和Request请求映射，我一个晚上写的，乱七八糟的东西比较多，欢迎提意见
 
 ## 其他 ##
-[Git@OSC地址](http://git.oschina.net/ousheobun/MyJavawebHomework)
+[Git@OSC地址](https://git.oschina.net/ousheobun/My-Javaweb-Homework)
 [Github地址](https://github.com/ousheobin/My-Javaweb-Homework)
 欢迎在Issues留言或者给我发邮件 me@oushaobin.cn / shaobin.ou@tentcoostudio.cn
